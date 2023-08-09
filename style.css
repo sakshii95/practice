@@ -1,0 +1,96 @@
+.container-homepage {
+    background-color: #fbd4a0;
+}
+.container-navbar {
+    background-color: white;
+    border: 1pxsolid;
+    border: 2px solid #858383;
+}
+.navitems h2 {
+    font-weight: 600;
+    font-family: cursive;
+    font-size: 19px;
+    color: black;
+}
+.nva-search h2 {
+    color: #646464;
+    margin: 12px;
+    padding: 13px;
+    text-align: center;
+    font-size: 18px;
+    border: 3px solid orange;
+}
+.container-fluid-Manager {
+    margin-top: 13px;
+    padding: 28px;
+    background-color: #b2f7d0;
+}
+.text-work h1 {
+    margin-bottom: 21px;
+    font-weight: 700;
+    margin-top: 26px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.border-lenght {
+    margin-top: 32px;
+    border-bottom: 4px solid #fbbd4b;
+    width: 100%;
+}
+.experence h1 {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    margin-top: 29px;
+    margin-bottom: 26px;
+    color: #237c4a;
+    font-size: 28px;
+    border: none;
+}
+.experence h2 {
+    font-size: 23px;
+    font-weight: 800;
+}
+
+.experence {
+    width: 53%;
+    font-size: 13px;
+}
+span.light {
+    font-size: 19px;
+    font-weight: 400;
+    color: #1a1a1a;
+}
+
+.flex-left h3 {
+    padding: 8px;
+    color: seagreen;
+    font-size: 18px;
+}
+.flex-left {
+    display: flex;
+}
+.border-left {
+    width: 20px;
+    border-left: 1px solid #d7d760;
+    margin-left: 5px;
+}
+.flex-bottom {
+    display: flex;
+}
+.flex-bottom {
+    width: 20px;
+    border-left: 1px solid #d7d760;
+    margin-left: 5px; 
+}
+.flex-bottom h3 {
+    padding: 8px;
+    color: seagreen;
+    font-size: 18px;
+}
+
+.experence h4{
+    font-weight: 700;
+    font-size: 21px;
+}
