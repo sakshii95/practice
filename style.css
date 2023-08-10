@@ -10,8 +10,9 @@ body{
 }
 
 .container-homepage {
-    background-color: #fbd4a0;
+    background-color: #fbedea;
 }
+
 .nav-search {
     justify-content: space-around;
     display: flex;
@@ -34,7 +35,7 @@ body{
 .container-fluid-Manager {
     margin-top: 13px;
     padding: 28px;
-    background-color: #b2f7d0;
+    background-color: #d0f7f7;
 }
 .text-work h1 {
     margin-bottom: 21px;
