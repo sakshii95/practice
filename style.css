@@ -43,15 +43,17 @@ body{
     text-align: center;
     font-size: 25px;
 }
+
+.gmail-btn h3 {
+    font-size: 16px;
+    color: #585757;
+}
 .gmail-btn {
     padding: 22px;
     border: 2px solid #fbd876;
     background-color: white;
     border-radius: 12px;
-}
-.gmail-btn h3 {
-    font-size: 16px;
-    color: #585757;
+ 
 }
 
 .border-lenght {
@@ -219,14 +221,18 @@ li {
     text-align: center;
     font-weight: 500;
 }
-/* @media (max-width:800px){
-
-
+ @media (max-width:800px){
+    .container-all-div {
+        display: initial;
+    }
+    .biodata {
+       max-width: 100%;
+    }
     .box-different1 {
         display: initial;
     }
     .experence h1 {
-        width: 100%;
+        max-width: 100%;
         
     }
     .border-lenght {
@@ -235,13 +241,54 @@ li {
     }
     .engineer-box {
         width: 100%;
+        padding: 0px;
     }
     .experence {
-        width: 100%;
+        max-width: 100%;
      
+    }
+    .box-different {
+        display: initial;
     }
     .container-fluid-education {
         display: initial;
     }
+    .gmail-btn {
+        max-width: 100%;
+        padding: 0px;
+    }
+    .nav-search {
+        display: initial;
+    }
+    .container-side.-topic {
+        padding: 0px;
+        margin-top: 14px;
+    }
+    ul {
+        margin-left: 0px;
+    }
+   
+    .container-border-last {
+        padding: 14px;
+        max-width: 100%;
+    }
+    .container-last-topic {
+        display: initial;
+        padding: 19px;
+    }
+    .container-all-div {
+        display: initial;
+    }
+    .container-left-side {
+        max-width: 100%;
+    }
+    .container-fluid-Manager {
+        padding: 0px;
+     
+    }
+    .container-bank {
+        padding: 0px;
        
-} */
+    }
+       
+} 
